@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on web dev projects 
-- 📫 How to reach me mail me : stark.aarya21@gmail.com
+- 📫 How to reach me _ mail me : stark.aarya21@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: you cannot smile and think at the same time 
 
