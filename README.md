@@ -1,4 +1,4 @@
-- 👋 Hi, I’m neha
+- 👋 Hi, I’m Neha
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on web dev projects 
